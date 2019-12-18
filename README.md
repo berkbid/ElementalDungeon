@@ -1,4 +1,4 @@
-# Elemental Dungeon (Group of 3)
+# Elemental Dungeon (Group of 4)
 Platformer game with elemental powers to counter elemental enemies/terrain (Unity/C#)
 
 ![ElementalDungeon Image](https://berkbid.github.io/Images/ElementalDungeon.png)
